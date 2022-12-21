@@ -1,2 +1,6 @@
 # learn-smart-contract-in-go
-Cosmos SDK and Gno
+Checkout detail in each sub directory
+
+## Cosmos SDK
+
+## Gno
